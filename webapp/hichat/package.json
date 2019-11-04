@@ -18,7 +18,7 @@
     "framework7-vue": "^0.8.5",
     "lodash": "^4.17.4",
     "vuex": "^2.2.1",
-    "axios": "^0.15.3",
+    "axios": "^0.18.1",
     "framework7-icons": "^0.8.9",
     "cookies-js": "^1.2.3",
     "cropperjs": "^1.1.3",
